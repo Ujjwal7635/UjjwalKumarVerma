@@ -30,34 +30,22 @@ I’ve worked extensively with:
 
 ## 💻 Tech Stack  
 
-## 🛠️ Tech Stack  
-
 ### 🖼️ With Icons  
 <p align="left">
-  <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-005C9E?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge&logo=plotly&logoColor=white" />
-
-  <!-- Excel -->
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-  <!-- Power BI -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-  <!-- Statistics -->
   <img src="https://img.shields.io/badge/Statistics-4E9A06?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>  
 
 ---
 
 ### 📌 Detailed Breakdown  
-
 #### 🔹 SQL  
 - Joins (Inner, Left, Right, Full)  
 - Subqueries  
@@ -99,9 +87,9 @@ I’ve worked extensively with:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwal7635/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwal7635/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ujjwal7635/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwal7635/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwal7635/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ujjwal7635/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -110,7 +98,5 @@ I’ve worked extensively with:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ujjwal7635/Ujjwal7635/main/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal7635&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
