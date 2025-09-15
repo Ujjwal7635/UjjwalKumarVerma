@@ -95,16 +95,18 @@ I’ve worked extensively with:
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal7635&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🐍 Contribution Snake Animation  
 
 <p align="center">
   <img src="https://github.com/Ujjwal7635/Ujjwal7635/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ujjwal7635/Ujjwal7635/main/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
